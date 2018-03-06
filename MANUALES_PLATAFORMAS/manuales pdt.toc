@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Presentacion}{2}{section.1}
+\contentsline {section}{\numberline {2}Plataforma uso de suelo agrícola}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Componentes Plataforma Uso Suelo Agrícola}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Leyenda}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Visor}{5}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Complementos}{6}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Operación}{7}{subsection.2.2}
+\contentsline {section}{\numberline {3}Plataforma Caracterización de Regantes}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}Componentes plataforma regantes}{11}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Visor}{11}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Complementos}{13}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Operación}{17}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Complementos No dinámicos}{17}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Complementos dinámicos}{18}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Complementos de histogramas}{20}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Consideraciones}{22}{subsection.3.3}

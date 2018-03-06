@@ -1,0 +1,8 @@
+Nivel ,Definición
+Alto,La propiedad posee el 50% o más de su superficie con riego tecnificado y cuenta con obras de almacenamiento hídrico propio.
+Medio,La propiedad posee el 50% o mas de su superficie con riego tecnificado y obra de acumulación comunitario.
+,La propiedad posee solo el 50% o mas de su superficie con riego tecnificado sin presentar obra de acumulación.
+,La propiedad posee menos del 50% de su superficie con riego tecnificado y cuenta con obra de acumulación propia.
+Bajo,Posee solo obra de acumulación propia o comunitaria sin presentar riego tecnificado
+,Posee menos del 50% de la superficie con riego tecnificado
+Nulo,No posee obra de acumulación y riego tecnificado
